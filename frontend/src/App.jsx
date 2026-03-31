@@ -7,7 +7,7 @@ import LoadingSkeleton from './components/LoadingSkeleton'
 import ErrorMessage from './components/ErrorMessage'
 import './App.css'
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api'
+const API_BASE_URL = 'https://freeflix-production-a057.up.railway.app/api'
 
 function App() {
   const [movies, setMovies] = useState([])
