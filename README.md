@@ -15,6 +15,13 @@ Discover legally available full movies on YouTube. A platform that helps users f
 - 📱 **Responsive Design** - Works on desktop, tablet, and mobile
 - 🎨 **Netflix-inspired UI** - Clean, modern dark theme
 
+## Screenshots
+Main Menu :
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/ec9d501c-13f3-4335-b133-4e8fa6fdc2ea" />
+Search Options :
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/cd87e4eb-0ec2-45bb-b8b4-90c586f88257" />
+
+
 ## Tech Stack
 
 ### Frontend
